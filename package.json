@@ -12,5 +12,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.3",
+    "vite-plugin-ruby": "^3.2.2"
+  }
 }
